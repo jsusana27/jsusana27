@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Joshua Susana!
 
 **Full-Stack .NET Developer**  
-📧 **Email:** [kuyang27@gmail.com](mailto:kuyang27@gmail.com)  
+📧 **Email:** [kuyang27@gmail.com](mailto:joshuasusana27@gmail.com)  
 💼 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/joshua-susana-aa62131bb/)  
 
 ---
