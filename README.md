@@ -2,8 +2,7 @@
 
 **Full-Stack .NET Developer**  
 📧 **Email:** [kuyang27@gmail.com](mailto:kuyang27@gmail.com)  
-💼 **LinkedIn:** [LinkedIn Profile](#)  
-🔗 **GitHub:** [GitHub Profile](#)
+💼 **LinkedIn:** [LinkedIn Profile](#https://www.linkedin.com/in/joshua-susana-aa62131bb/)  
 
 ---
 
