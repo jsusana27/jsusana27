@@ -28,4 +28,4 @@ _August 2024 – October 2024_
 
 ## 📫 Let's Connect!
 
-If you want to collaborate on a project or just have a chat about software development, feel free to reach out through [GitHub](#) or [LinkedIn](#).
+If you want to collaborate on a project or just have a chat about software development, feel free to reach out through [GitHub](https://github.com/jsusana27) or [LinkedIn](https://www.linkedin.com/in/joshua-susana-aa62131bb/).
