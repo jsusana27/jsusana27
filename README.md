@@ -8,7 +8,7 @@
 
 ## 🚀 Current Projects
 
-### **[StitchTrack](#)**  
+### **[StitchTrack](https://github.com/jsusana27/StitchTrack)**  
 **Tech Stack:** C#, ASP.NET Core, Entity Framework Core, SQL Server, Docker, Git, xUnit Testing  
 _August 2024 – October 2024_  
 - Developed a full-stack inventory management system with ASP.NET Core and React featuring comprehensive product and material tracking.
