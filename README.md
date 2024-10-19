@@ -35,6 +35,7 @@ _August 2023 – May 2024_
 - Senior design project focused on optimizing an IoT system for cost-efficiency while maintaining functionality.
 - Reduced costs by up to $750 by removing the need for an edge PC.
 - Utilized Docker and Home Assistant Supervised for streamlined setup and operations.
+- [Full description and demonstration](https://www.youtube.com/watch?v=d4NW4GfFreo)
 
 ---
 
