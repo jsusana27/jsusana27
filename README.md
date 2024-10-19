@@ -15,6 +15,27 @@ _August 2024 – October 2024_
 - Implemented an in-memory database with xUnit testing to validate CRUD operations and inventory calculations.
 - Integrated RESTful APIs for managing crochet-related data such as yarn, safety eyes, and finished products.
 
+### **[CampusConnect](https://github.com/240708-NET/CampusConnect)**  
+**Tech Stack:** C#, ASP.NET Core, Entity Framework Core, SQL Server, Docker, Git, xUnit Testing  
+_August 2024_  
+- Collaborated on a group project developing a blogging platform using ASP.NET Core Web API for the backend and React for the frontend.
+- Created unit tests for controllers and repositories achieving over 75% test coverage using xUnit.
+- Worked with Entity Framework Core to manage the database schema and support persistent storage for blog posts, user profiles, and comments.
+
+### **[No Limit Texas Hold'em Poker App](https://github.com/jsusana27/NoLimitTexasHoldem)**  
+**Tech Stack:** C#, ASP.NET Core, Entity Framework Core, SQL Server, Docker, Git  
+_July 2024_  
+- Developed a C# console application using .NET Core with SQL Server running in a Docker container for data persistence.
+- Utilized Entity Framework Core for data modeling, migrations, and persistent storage of game hand history.
+- Applied the Repository Pattern to streamline data access and improve project architecture.
+
+### **[IAC IoT System](https://github.com/gtemplin/IAC-Convenient-Data-Collection)**  
+**Tech Stack:** Python, Docker, Linux, Raspberry Pi  
+_August 2023 – May 2024_  
+- Senior design project focused on optimizing an IoT system for cost-efficiency while maintaining functionality.
+- Reduced costs by up to $750 by removing the need for an edge PC.
+- Utilized Docker and Home Assistant Supervised for streamlined setup and operations.
+
 ---
 
 ## 🛠️ Technical Skills
