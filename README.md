@@ -12,7 +12,7 @@
 **Tech Stack:** C#, ASP.NET Core, Entity Framework Core, SQL Server, Docker, Git, xUnit Testing  
 _August 2024 – October 2024_  
 - Developed a full-stack inventory management system with ASP.NET Core and React featuring comprehensive product and material tracking.
-- Implemented an in-memory database with xUnit testing to validate CRUD operations and inventory calculations.
+- Created unit tests for the back-end API using xUnit, achieving approximately 87%% test coverage.
 - Integrated RESTful APIs for managing crochet-related data such as yarn, safety eyes, and finished products.
 
 ### **[CampusConnect](https://github.com/240708-NET/CampusConnect)**  
