@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 Current Projects
+## 🚀 Projects
 
 ### **[StitchTrack](https://github.com/jsusana27/StitchTrack)**  
 **Tech Stack:** C#, ASP.NET Core, Entity Framework Core, SQL Server, Docker, Git, xUnit Testing  
