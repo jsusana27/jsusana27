@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Joshua Susana!
 
-**Full-Stack .NET Developer**  
+**Software Developer at SEI Family Office Services**  
 📧 **Email:** [joshuasusana27@gmail.com](mailto:joshuasusana27@gmail.com)  
 💼 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/joshua-susana-aa62131bb/)  
 
@@ -42,9 +42,9 @@ _August 2023 – May 2024_
 ## 🛠️ Technical Skills
 
 - **Languages:** C, C++, C#, Java, Python, SQL (Microsoft SQL Server), JavaScript, TypeScript, HTML/CSS  
-- **Frameworks:** .NET, ASP.NET, Entity Framework, React  
+- **Frameworks:** .NET, ASP.NET, Entity Framework, Angular
 - **Developer Tools:** Linux, Git, Docker, VS Code, PyCharm  
-- **Libraries:** xUnit, Moq, SystemText.Json  
+- **Libraries:** xUnit, Moq, SystemText.Json, React
 
 ---
 
